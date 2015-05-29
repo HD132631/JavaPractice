@@ -49,8 +49,7 @@ public class Score {
 				.append(String.format("%.1f", (kor+math+eng)/3.0))
 				.append(" 점\n");
 		System.out.println(sb.toString());
-		
-
+		s.close();
 	}
 
 }
