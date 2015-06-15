@@ -1,10 +1,8 @@
 /**
  * 
  */
-package org.dimigo.basic;
+package org.dimigo.oop;
 
-import org.dimigo.oop.FamilyMember;
-import org.dimigo.oop.PiggyBank;
 
 /**
  *<pre>
